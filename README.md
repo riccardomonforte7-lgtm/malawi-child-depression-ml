@@ -46,7 +46,7 @@ The final modelling pipeline compared two main approaches:
 
 ## Results
 
-The final chosen model was L2 logistic regression on the restricted feature space as it better matched the overall project aim, providing similar performances to the Random Forest but allowing a more clear and useful interpretation of the coefficients.
+The final chosen model was an L2-penalised Logistic Regression fitted on the restricted feature set. This choice better matched the aim of the project: the model achieved performance similar to the Random Forest, while allowing a clearer interpretation of the selected coefficients.
 
 In particular, the Logistic Regression model was useful as an interpretable screening tool, allowing inspection of the direction and magnitude of associations between selected variables and the outcome. The Random Forest model showed similar performance, suggesting that the available predictors contained only limited predictive signal for this classification task.
 
@@ -81,4 +81,4 @@ Please refer to the official UNICEF MICS website for information on data access 
 
 ## Report
 
-The full project report is available [here](report/final_project.pdf).
+The full project report is available [here](report/final_report.pdf).
