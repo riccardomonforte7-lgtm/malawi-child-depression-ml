@@ -1,8 +1,6 @@
-# Discovering Patterns in Neuronal Connectivity and Cellular Identity:Bridging SNR and MERFISH Data Through Soma Location
+# Malawi Child Depression ML
 
-Statistical project involving unsupervised and supervised learning techniques to investigate the relationship between neuronal connectivity, anatomical position and cellular identity. The project investigates this relationship in the mouse entorhinal cortex by combining two complementary datasets:
-- The SNR dataset, which contains single-neuron reconstructions, describing both where individual neurons send their axons and where their somata are located in the brain.
-- The MERFISH dataset contains transcriptomic data, describing gene expression for a much larger number of cells while also preserving anatomical location information. 
+Machine learning project using UNICEF Multiple Indicator Cluster Survey (MICS) data to investigate whether children aged 5–17 in Malawi are likely to report any form of depression related symptoms.
 
 ## Overview
 
